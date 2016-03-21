@@ -1,0 +1,22 @@
+{
+  "name": "cits3001",
+  "version": "1.0.0",
+  "description": "CITS3001 labs and project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolcookie/CITS3001.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lolcookie/CITS3001/issues"
+  },
+  "homepage": "https://github.com/lolcookie/CITS3001#readme",
+  "devDependencies": {
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.1.0"
+  }
+}
